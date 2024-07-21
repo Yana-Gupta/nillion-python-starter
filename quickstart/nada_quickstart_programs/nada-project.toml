@@ -1,10 +1,7 @@
-name = "program"
+name = "quick_start_programs"
 version = "0.1.0"
 authors = [""]
 
 [[programs]]
 path = "src/main.py"
-name = "my_program"
 prime_size = 128
-
-
